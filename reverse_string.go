@@ -9,7 +9,6 @@ func ReverseString(input string) (output string) {
 		output = output + string(toRune[x])
 		x--
 	}
-	return output
 
 	return output
 
